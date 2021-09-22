@@ -4,9 +4,11 @@
   background-size: cover;
   animation: backgroundScroll 30s linear infinite;
   animation-fill-mode: forwards;
-  cursor: url(./assets/images/potato.png), auto;
 } */
 
+body {
+  cursor: url(./assets/images/cursor.png), auto;
+}
 .hero-section {
   background: -webkit-linear-gradient(
     top,
