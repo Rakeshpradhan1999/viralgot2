@@ -1,0 +1,93 @@
+/* /* body {
+  color: white;
+  background-image: url(./assets/images/Group\ 1000001999.png);
+  background-size: cover;
+  animation: backgroundScroll 30s linear infinite;
+  animation-fill-mode: forwards;
+  cursor: url(./assets/images/potato.png), auto;
+} */
+
+.hero-section {
+  background: -webkit-linear-gradient(
+    top,
+    rgba(241, 191, 162, 0.8) 0%,
+    rgba(240, 190, 161, 0.8) 20%,
+    rgba(240, 191, 161, 0.59) 40%,
+    rgba(242, 192, 162, 0.39) 60%,
+    rgba(240, 189, 158, 0.19) 80%,
+    rgba(255, 170, 170, 0) 99%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: -o-linear-gradient(
+    top,
+    rgba(241, 191, 162, 0.8) 0%,
+    rgba(240, 190, 161, 0.8) 20%,
+    rgba(240, 191, 161, 0.59) 40%,
+    rgba(242, 192, 162, 0.39) 60%,
+    rgba(240, 189, 158, 0.19) 80%,
+    rgba(255, 170, 170, 0) 99%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: -ms-linear-gradient(
+    top,
+    rgba(241, 191, 162, 0.8) 0%,
+    rgba(240, 190, 161, 0.8) 20%,
+    rgba(240, 191, 161, 0.59) 40%,
+    rgba(242, 192, 162, 0.39) 60%,
+    rgba(240, 189, 158, 0.19) 80%,
+    rgba(255, 170, 170, 0) 99%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: -moz-linear-gradient(
+    top,
+    rgba(241, 191, 162, 0.8) 0%,
+    rgba(240, 190, 161, 0.8) 20%,
+    rgba(240, 191, 161, 0.59) 40%,
+    rgba(242, 192, 162, 0.39) 60%,
+    rgba(240, 189, 158, 0.19) 80%,
+    rgba(255, 170, 170, 0) 99%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    rgba(241, 191, 162, 0.8) 0%,
+    rgba(240, 190, 161, 0.8) 20%,
+    rgba(240, 191, 161, 0.59) 40%,
+    rgba(242, 192, 162, 0.39) 60%,
+    rgba(240, 189, 158, 0.19) 80%,
+    rgba(255, 170, 170, 0) 99%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  background-size: cover;
+  min-height: 90vh;
+}
+.moving-bg {
+  height: 80vh;
+  width: 100%;
+  background-image: url(./assets/images/header-bg.svg);
+  animation: backgroundScroll 30s linear infinite;
+  animation-fill-mode: forwards;
+}
+@-webkit-keyframes backgroundScroll {
+  0% {
+    background-position: -1780px -690px;
+  }
+
+  100% {
+    background-position: 0 0;
+  }
+}
+
+@keyframes backgroundScroll {
+  0% {
+    background-position: -1780px -690px;
+  }
+
+  100% {
+    background-position: 0 0;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
