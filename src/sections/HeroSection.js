@@ -14,10 +14,12 @@ const HeroSection = () => {
               Viral goats
             </h1>
             <p className="text-black font-serif text-sm max-w-lg mx-auto mb-8">
-              A quick brown fox jumps over the lazy dog, a quick brown fox jumps
-              over the lazy dog.
+              Viral Goats are a pack of coolest, hand made, algorithmically
+              generated NFTs on the Ethereum network.
             </p>
-            <Button>Mint Viral Goats</Button>
+            <a href="https://minter.viralgoats.io/">
+              <Button>Mint Viral Goats</Button>
+            </a>
           </div>
           <div className="md:w-1/4 hidden md:block">
             <img src={Goat2} alt="" className="mx-auto" />
