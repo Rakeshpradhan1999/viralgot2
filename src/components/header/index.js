@@ -59,16 +59,16 @@ const Index = () => {
           >
             <ul className="list-none text-center p-8 text-white bg-primary">
               <li className="p-2 text-md">
-                <a href="/">About</a>
+                <a href="#about">About</a>
               </li>
               <li className="p-2 text-md">
-                <a href="/">Buy ViralGoats</a>
+                <a href="#buyviralgot">Buy ViralGoats</a>
               </li>
               <li className="p-2 text-md">
-                <a href="/">Roadmap</a>
+                <a href="#roadmap">Roadmap</a>
               </li>
               <li className="p-2 text-md">
-                <a href="/">FAQ's</a>
+                <a href="#faq">FAQ's</a>
               </li>
             </ul>
           </div>
