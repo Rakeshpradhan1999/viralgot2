@@ -4,37 +4,43 @@ const accordianData = [
   {
     question: "What Are Viral Goats?",
     answer:
-      "Viral Goats are a pack of the coolest, hand-drawn, algorithmically generated NFTs splooting around on the Ethereum blockchain. ",
+      "Viral Goats are a pack of the coolest, hand-drawn, algorithmically generated NFTs splooting around on the Ethereum blockchain.",
   },
   {
     question: "How Much is a Viral Goat?",
-    answer:
-      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+    answer: ".066 ETH",
   },
   {
     question: "How Many Viral Goats are There?",
-    answer:
-      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+    answer: "Only 7777 Viral Goats will ever be created.",
   },
   {
     question: "How Many Can I Mint?",
-    answer:
-      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+    answer: "As many as you'd like but 1 Viral Goat per transaction.",
   },
   {
     question: "What Wallets are Supported?",
-    answer:
-      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+    answer: "Metamask and Trust Wallet",
   },
   {
     question: "What Will the Royalties Percent be?",
-    answer:
-      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+    answer: "5.0%",
   },
   {
     question: "How Many Viral Goats Will be Kept by the Team?",
     answer:
-      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+      "The team has reserved 100 Viral Goats at random for team members and community contests and giveaways.",
+  },
+  {
+    question:
+      "How Will the Initial Sale be Airdropped to Holders of Unique Viral Goats?",
+    answer:
+      "The 5% will be split evenly between unique Viral Goat holders. Snapshot of holders will be taken at a specified date.",
+  },
+  {
+    question: "How Many Unique Viral Goats Will There be?",
+    answer:
+      "There is 4,000 common goats, 2,250 epic goats, 1,000 rare Alien goats, 500 super rare Elon Goats and 27 Legendary Elon goat.",
   },
 ];
 const Faq = () => {

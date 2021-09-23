@@ -70,9 +70,6 @@ const Index = () => {
               <li className="p-2 text-md">
                 <a href="/">FAQ's</a>
               </li>
-              <li className="p-2 text-md">
-                <a href="/">Contact Us</a>
-              </li>
             </ul>
           </div>
         </div>
