@@ -15,7 +15,7 @@ const AboutSection = () => {
           <p className="font-serif mt-8  text-md ">
             Viral Goats are a pack of coolest, hand made, algorithmically
             generated NFTs splooting around on the Ethereum blockchain. Only
-            3,000 of these goats will ever exist. Each with six attributes from
+            7777 of these goats will ever exist. Each with six attributes from
             over 100 unique traits. Several unique Viral Goats will include an
             additional surpise! Lovingly inspired by our very own Viral Goats.
             🐐
