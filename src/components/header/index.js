@@ -2,6 +2,7 @@ import { useState } from "react";
 import Logo from "../../assets/images/Logo.png";
 import MobileLogo from "../../assets/images/mobilelogo.png";
 import "./style.css";
+import Timer from "../timer";
 
 const Index = () => {
   const [open, setOpen] = useState(false);
@@ -11,7 +12,8 @@ const Index = () => {
         <div className="container p-4">
           <div className=" w-full max-w-xl mx-auto flex justify-between items-center flex-col sm:flex-row">
             <h1 className="text-md sm:text-xl mb-2 ">Mint Day</h1>
-            <p className=" text-xl sm:text-2xl">30 Sepetember 2021</p>
+            <Timer />
+            {/* <p className=" text-xl sm:text-2xl">30 Sepetember 2021</p> */}
           </div>
         </div>
       </div>
