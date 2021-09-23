@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
-// import moment from "moment";
+import moment from "moment";
 
 const Index = () => {
   //   const [value, setValue] = useState(0);
   //   console.log(value);
   // const difference = +new moment("2021-9-30 00:00:00") - +new Date();
-  const difference = Date.parse("2021-9-30 00:00:00") - new Date();
+  const difference = +new moment("2021-10-09 12:00").utc() - +new Date();
   console.log(difference);
   const [days, setDays] = useState(0);
   const [hours, setHours] = useState(0);
