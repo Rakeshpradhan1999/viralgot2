@@ -9,32 +9,32 @@ const accordianData = [
   {
     question: "How Much is a Viral Goat?",
     answer:
-      "When you own a GoosePunk this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a GoosePunk is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
   },
   {
     question: "How Many Viral Goats are There?",
     answer:
-      "When you own a GoosePunk this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a GoosePunk is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
   },
   {
     question: "How Many Can I Mint?",
     answer:
-      "When you own a GoosePunk this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a GoosePunk is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
   },
   {
     question: "What Wallets are Supported?",
     answer:
-      "When you own a GoosePunk this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a GoosePunk is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
   },
   {
     question: "What Will the Royalties Percent be?",
     answer:
-      "When you own a GoosePunk this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a GoosePunk is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
   },
   {
     question: "How Many Viral Goats Will be Kept by the Team?",
     answer:
-      "When you own a GoosePunk this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a GoosePunk is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
+      "When you own a Viral Goats this is your own character in the metaverse, a cyberpunk/steampunk themed character. Owner ship of a Viral Goats is your exclusive invitation into the Gaggle, a place where other Geese meetup, hangout, relax, exchange art and talk about strategies moving forward inside the dystopian world of Ayame. ",
   },
 ];
 const Faq = () => {
