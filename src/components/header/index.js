@@ -24,7 +24,6 @@ const Index = () => {
           <nav className="container flex justify-between items-center">
             <div className="flex">
               <DesktopNavItem text="About" link="#about" />
-              <DesktopNavItem text="Buy ViralGoats" link="#buyviralgot" />
             </div>
             <div>
               <img src={Logo} alt="logo" />
@@ -61,9 +60,7 @@ const Index = () => {
               <li className="p-2 text-md">
                 <a href="#about">About</a>
               </li>
-              <li className="p-2 text-md">
-                <a href="#buyviralgot">Buy ViralGoats</a>
-              </li>
+
               <li className="p-2 text-md">
                 <a href="#roadmap">Roadmap</a>
               </li>
