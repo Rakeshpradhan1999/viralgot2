@@ -1,6 +1,6 @@
 import Goat1 from "../assets/images/goat3.png";
 import Goat2 from "../assets/images/goat4.png";
-import { Button } from "../components";
+
 const AboutSection = () => {
   return (
     <section className="bg-black text-white py-24" id="about">
