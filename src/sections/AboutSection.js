@@ -20,20 +20,6 @@ const AboutSection = () => {
             additional surpise! Lovingly inspired by our very own Viral Goats.
             🐐
           </p>
-          <div
-            style={{ border: "3px solid #C98769" }}
-            className="bg-white flex justify-between items-center py-3 pl-6 pr-3 my-5 mt-14 rounded-lg"
-          >
-            <h6 className="text-primary ">Comming soon.</h6>
-            <Button> Comming soon</Button>
-          </div>
-          <div
-            style={{ border: "3px solid #C98769" }}
-            className="bg-white flex justify-between items-center py-3 pl-6 pr-3 my-5 rounded-lg"
-          >
-            <h6 className="text-primary ">Comming soon.</h6>
-            <Button>Comming soon</Button>
-          </div>
         </div>
         <div className="w-1/4 self-end   hidden md:block">
           <img src={Goat2} alt="Goat" className="ml-auto" />

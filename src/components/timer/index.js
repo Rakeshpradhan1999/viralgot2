@@ -5,7 +5,7 @@ const Index = () => {
   //   const [value, setValue] = useState(0);
   //   console.log(value);
   // const difference = +new moment("2021-9-30 00:00:00") - +new Date();
-  const difference = +new moment("2021-09-30 12:00").utc() - +new Date();
+  const difference = +new moment("2021-08-30 12:00").utc() - +new Date();
   console.log(difference);
   const [days, setDays] = useState(0);
   const [hours, setHours] = useState(0);
